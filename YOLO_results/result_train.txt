@@ -1,0 +1,836 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 6, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 456 K-images (7 Kilo-batches_64) 
+Enter Image Path: /mydrive/ts/00b8c7642d98fedf.jpg: Predicted in 15.229000 milli-seconds.
+0: 100%	(left_x:   63   top_y:  175   width:  504   height:  624)
+Enter Image Path: /mydrive/ts/00bf3b7340ae0a9f.jpg: Predicted in 15.180000 milli-seconds.
+0: 100%	(left_x:  134   top_y:  194   width:  346   height:  812)
+Enter Image Path: /mydrive/ts/0b0803480232cf3e.jpg: Predicted in 15.171000 milli-seconds.
+Enter Image Path: /mydrive/ts/0ba97be2c7011295.jpg: Predicted in 15.251000 milli-seconds.
+0: 100%	(left_x:  410   top_y:  662   width:  245   height:  253)
+Enter Image Path: /mydrive/ts/0be49fe17e959264.jpg: Predicted in 15.221000 milli-seconds.
+0: 100%	(left_x:  417   top_y:  578   width:  304   height:  417)
+Enter Image Path: /mydrive/ts/0bf06163bd011f7f.jpg: Predicted in 15.257000 milli-seconds.
+5: 100%	(left_x:  179   top_y:  507   width:  265   height:  157)
+Enter Image Path: /mydrive/ts/0c71c87e710acf06.jpg: Predicted in 15.194000 milli-seconds.
+5: 100%	(left_x:  189   top_y:  329   width:  351   height:  214)
+Enter Image Path: /mydrive/ts/0d78b275aa2d01ed.jpg: Predicted in 15.244000 milli-seconds.
+0: 100%	(left_x:  350   top_y:  650   width:  176   height:  177)
+Enter Image Path: /mydrive/ts/0e1b7b2038436056.jpg: Predicted in 15.225000 milli-seconds.
+6: 100%	(left_x:  136   top_y:  740   width:  521   height:  272)
+Enter Image Path: /mydrive/ts/0ece5b3baf9dc5c2.jpg: Predicted in 15.174000 milli-seconds.
+5: 99%	(left_x:  136   top_y:  103   width:  703   height:  626)
+Enter Image Path: /mydrive/ts/01bca544d1768a84.jpg: Predicted in 15.215000 milli-seconds.
+0: 100%	(left_x:  134   top_y:  255   width:  457   height:  748)
+Enter Image Path: /mydrive/ts/1a5c154b9baae857.jpg: Predicted in 15.148000 milli-seconds.
+0: 100%	(left_x:  303   top_y:  -27   width:  513   height:  715)
+Enter Image Path: /mydrive/ts/1ac142eaf9e17602.jpg: Predicted in 15.218000 milli-seconds.
+5: 100%	(left_x:  186   top_y:  139   width:  523   height:  317)
+Enter Image Path: /mydrive/ts/1b11df390fede604.jpg: Predicted in 15.339000 milli-seconds.
+0: 100%	(left_x:   21   top_y:  512   width:  632   height:  501)
+Enter Image Path: /mydrive/ts/1c7b81697c24d8b0.jpg: Predicted in 15.201000 milli-seconds.
+5: 98%	(left_x:  262   top_y:  308   width:  112   height:   50)
+Enter Image Path: /mydrive/ts/1c917fc8253010c7.jpg: Predicted in 15.214000 milli-seconds.
+0: 100%	(left_x:  571   top_y:  304   width:  157   height:  308)
+Enter Image Path: /mydrive/ts/1ca5ca2c4bf58521.jpg: Predicted in 15.279000 milli-seconds.
+0: 100%	(left_x:  271   top_y:  369   width:  337   height:  395)
+Enter Image Path: /mydrive/ts/1d76fc587c031c36.jpg: Predicted in 15.205000 milli-seconds.
+0: 100%	(left_x:  611   top_y:  341   width:  205   height:  128)
+Enter Image Path: /mydrive/ts/1f2d7bab6a49881a.jpg: Predicted in 15.164000 milli-seconds.
+0: 100%	(left_x:  321   top_y:  345   width:  241   height:  279)
+Enter Image Path: /mydrive/ts/02a945cc2b6f4daf.jpg: Predicted in 15.307000 milli-seconds.
+5: 100%	(left_x:  164   top_y:  324   width:  238   height:   89)
+5: 100%	(left_x:  614   top_y:  323   width:  242   height:   95)
+Enter Image Path: /mydrive/ts/02c773a25a15f7cd.jpg: Predicted in 15.284000 milli-seconds.
+0: 100%	(left_x:  179   top_y:  308   width:  310   height:  634)
+Enter Image Path: /mydrive/ts/2ab61de9e8192e9b.jpg: Predicted in 15.232000 milli-seconds.
+0: 87%	(left_x:  305   top_y:  560   width:  109   height:  140)
+0: 99%	(left_x:  694   top_y:  324   width:  152   height:  372)
+Enter Image Path: /mydrive/ts/2ad6b9ec1a7b357c.jpg: Predicted in 15.253000 milli-seconds.
+0: 100%	(left_x:  312   top_y:    5   width:  594   height:  765)
+Enter Image Path: /mydrive/ts/2aedc811474cdecd.jpg: Predicted in 15.323000 milli-seconds.
+5: 100%	(left_x:  242   top_y:   -2   width:  601   height:  531)
+Enter Image Path: /mydrive/ts/2b7f69a3cf819619.jpg: Predicted in 15.249000 milli-seconds.
+5: 100%	(left_x:  169   top_y:  111   width:  405   height:  275)
+Enter Image Path: /mydrive/ts/2b31b2002a1bcee9.jpg: Predicted in 15.197000 milli-seconds.
+0: 98%	(left_x:  142   top_y:  193   width:  380   height:  643)
+Enter Image Path: /mydrive/ts/2da75f6335928609.jpg: Predicted in 15.245000 milli-seconds.
+0: 98%	(left_x:  518   top_y:  356   width:  181   height:  262)
+Enter Image Path: /mydrive/ts/2ed6d8718ca98c17.jpg: Predicted in 15.277000 milli-seconds.
+0: 100%	(left_x:  193   top_y:  171   width:  238   height:  476)
+0: 100%	(left_x:  592   top_y:  251   width:  197   height:  255)
+Enter Image Path: /mydrive/ts/3a762921998045e1.jpg: Predicted in 15.206000 milli-seconds.
+0: 100%	(left_x:  182   top_y:  123   width:  411   height:  713)
+Enter Image Path: /mydrive/ts/3bead85bd09972fe.jpg: Predicted in 15.296000 milli-seconds.
+0: 100%	(left_x:   -1   top_y:  564   width:  451   height:  432)
+Enter Image Path: /mydrive/ts/5b93d7f1ece2da6c.jpg: Predicted in 15.270000 milli-seconds.
+0: 100%	(left_x:  108   top_y:  219   width:  352   height:  763)
+Enter Image Path: /mydrive/ts/6be310892c84cd63.jpg: Predicted in 15.299000 milli-seconds.
+5: 100%	(left_x:   14   top_y:  347   width:  442   height:  441)
+Enter Image Path: /mydrive/ts/6c28e25221f79352.jpg: Predicted in 15.228000 milli-seconds.
+0: 100%	(left_x:  181   top_y:   63   width:  554   height:  674)
+Enter Image Path: /mydrive/ts/6d73b19d38bc5da6.jpg: Predicted in 15.259000 milli-seconds.
+0: 100%	(left_x:  103   top_y:  120   width:  444   height:  850)
+Enter Image Path: /mydrive/ts/007db7e01f3941d2.jpg: Predicted in 15.318000 milli-seconds.
+5: 100%	(left_x:  247   top_y:  517   width:  185   height:  144)
+Enter Image Path: /mydrive/ts/07c65844865ad91f.jpg: Predicted in 15.247000 milli-seconds.
+0: 90%	(left_x:  -11   top_y:  855   width:  241   height:  175)
+0: 99%	(left_x:  122   top_y:  657   width:  210   height:  205)
+Enter Image Path: /mydrive/ts/7a5e8dcc020f3d6e.jpg: Predicted in 15.272000 milli-seconds.
+0: 27%	(left_x:    4   top_y:  392   width:   67   height:  543)
+0: 99%	(left_x:  232   top_y:  241   width:  348   height:  696)
+Enter Image Path: /mydrive/ts/7bbea10515d5c0e8.jpg: Predicted in 15.354000 milli-seconds.
+0: 100%	(left_x:   93   top_y:  376   width:  456   height:  542)
+Enter Image Path: /mydrive/ts/7c92533a00b93573.jpg: Predicted in 15.230000 milli-seconds.
+5: 100%	(left_x:   32   top_y:  496   width:  365   height:  261)
+5: 92%	(left_x:  479   top_y:  434   width:  293   height:  171)
+Enter Image Path: /mydrive/ts/8c4fdf6c653b2dfa.jpg: Predicted in 15.311000 milli-seconds.
+0: 100%	(left_x:  183   top_y:  136   width:  408   height:  708)
+Enter Image Path: /mydrive/ts/8dc3f2b49ac59eb9.jpg: Predicted in 15.228000 milli-seconds.
+0: 100%	(left_x:  120   top_y:  125   width:  487   height:  894)
+Enter Image Path: /mydrive/ts/8f6975b5dff66a1c.jpg: Predicted in 15.179000 milli-seconds.
+5: 100%	(left_x:   24   top_y:   94   width: 1018   height:  493)
+6: 100%	(left_x:   24   top_y:   94   width: 1018   height:  493)
+Enter Image Path: /mydrive/ts/9fa5578fb2936944.jpg: Predicted in 15.199000 milli-seconds.
+0: 100%	(left_x:   13   top_y:   91   width:  590   height:  813)
+Enter Image Path: /mydrive/ts/10c08673bb67eb04.jpg: Predicted in 15.251000 milli-seconds.
+0: 100%	(left_x:    1   top_y:  431   width:  414   height:  458)
+0: 100%	(left_x:  592   top_y:  480   width:  369   height:  474)
+Enter Image Path: /mydrive/ts/13bb7f5603f0aa4c.jpg: Predicted in 15.189000 milli-seconds.
+0: 100%	(left_x:   33   top_y:  700   width:  224   height:  297)
+Enter Image Path: /mydrive/ts/16ca9aa7cf522c51.jpg: Predicted in 15.274000 milli-seconds.
+0: 97%	(left_x:   67   top_y:  267   width:  583   height:  672)
+Enter Image Path: /mydrive/ts/17d21905e2c50754.jpg: Predicted in 15.156000 milli-seconds.
+0: 100%	(left_x:  399   top_y:   80   width:  396   height:  341)
+Enter Image Path: /mydrive/ts/19e50244dbe54fd9.jpg: Predicted in 15.237000 milli-seconds.
+0: 100%	(left_x:  222   top_y:  539   width:  352   height:  337)
+Enter Image Path: /mydrive/ts/29b00459b6b7a643.jpg: Predicted in 15.194000 milli-seconds.
+0: 100%	(left_x:  145   top_y:  582   width:  299   height:  383)
+Enter Image Path: /mydrive/ts/33a7ecbaa393391e.jpg: Predicted in 15.236000 milli-seconds.
+0: 100%	(left_x:  320   top_y:  529   width:  206   height:  395)
+Enter Image Path: /mydrive/ts/33fffa4bd99ffee0.jpg: Predicted in 15.199000 milli-seconds.
+5: 100%	(left_x:  277   top_y:   98   width:  438   height:  390)
+Enter Image Path: /mydrive/ts/35ab889754c1a08e.jpg: Predicted in 15.167000 milli-seconds.
+0: 100%	(left_x:  133   top_y:  560   width:  443   height:  449)
+Enter Image Path: /mydrive/ts/036b5adbc5c06df2.jpg: Predicted in 15.218000 milli-seconds.
+0: 100%	(left_x:   74   top_y:  569   width:  199   height:  452)
+Enter Image Path: /mydrive/ts/39c4f8f618b0a79d.jpg: Predicted in 15.162000 milli-seconds.
+5: 100%	(left_x:  205   top_y:  331   width:  215   height:  126)
+5: 100%	(left_x:  527   top_y:  426   width:  286   height:  204)
+Enter Image Path: /mydrive/ts/39cc8c770e0b6e23.jpg: Predicted in 15.349000 milli-seconds.
+5: 100%	(left_x:  103   top_y:  527   width:  216   height:  174)
+5: 100%	(left_x:  369   top_y:  584   width:  308   height:  253)
+Enter Image Path: /mydrive/ts/41a4051ecbe8b1d9.jpg: Predicted in 15.262000 milli-seconds.
+0: 100%	(left_x:  336   top_y:  -16   width:  552   height:  889)
+Enter Image Path: /mydrive/ts/50e4a792b11b58ab.jpg: Predicted in 15.160000 milli-seconds.
+5: 100%	(left_x:  323   top_y:  245   width:  200   height:  150)
+0: 100%	(left_x:  754   top_y:  483   width:  163   height:  174)
+Enter Image Path: /mydrive/ts/078e2e18f0e748ce.jpg: Predicted in 15.198000 milli-seconds.
+0: 100%	(left_x:  206   top_y:   59   width:  420   height:  921)
+Enter Image Path: /mydrive/ts/79a439d015a68b96.jpg: Predicted in 15.238000 milli-seconds.
+0: 100%	(left_x:   78   top_y:  183   width:  632   height:  706)
+Enter Image Path: /mydrive/ts/82ce9aa1b5dddbd3.jpg: Predicted in 15.198000 milli-seconds.
+0: 100%	(left_x:  303   top_y:  553   width:  197   height:  461)
+Enter Image Path: /mydrive/ts/83dacdd5b2f6b3ac.jpg: Predicted in 15.255000 milli-seconds.
+0: 100%	(left_x:   50   top_y:  674   width:  297   height:  328)
+5: 100%	(left_x:  348   top_y:  520   width:  282   height:  188)
+Enter Image Path: /mydrive/ts/88bd2c8fa95489a8.jpg: Predicted in 15.219000 milli-seconds.
+0: 100%	(left_x:  486   top_y:  178   width:  383   height:  788)
+Enter Image Path: /mydrive/ts/089d0bc3ec234cb0.jpg: Predicted in 15.267000 milli-seconds.
+5: 100%	(left_x:  618   top_y:  294   width:  256   height:  200)
+Enter Image Path: /mydrive/ts/95d5ca4b41600b68.jpg: Predicted in 15.206000 milli-seconds.
+0: 100%	(left_x:  288   top_y:   39   width:  398   height:  782)
+Enter Image Path: /mydrive/ts/96b7c5c6d0bcec98.jpg: Predicted in 15.183000 milli-seconds.
+0: 100%	(left_x:  223   top_y:  397   width:  301   height:  590)
+Enter Image Path: /mydrive/ts/107d06238ba3e314.jpg: Predicted in 15.282000 milli-seconds.
+6: 100%	(left_x:  116   top_y:  611   width:  589   height:  328)
+Enter Image Path: /mydrive/ts/239ba76d1b73e06e.jpg: Predicted in 15.227000 milli-seconds.
+0: 99%	(left_x:  314   top_y:   53   width:  372   height:  646)
+Enter Image Path: /mydrive/ts/272cd4ebdf272963.jpg: Predicted in 15.213000 milli-seconds.
+6: 100%	(left_x:   80   top_y:  331   width:  720   height:  310)
+Enter Image Path: /mydrive/ts/0303fb65c4c9a7e1.jpg: Predicted in 15.231000 milli-seconds.
+0: 100%	(left_x:  340   top_y:  172   width:  310   height:  578)
+Enter Image Path: /mydrive/ts/0365d8d1d967a2fc.jpg: Predicted in 15.212000 milli-seconds.
+0: 100%	(left_x:  226   top_y:  146   width:  339   height:  753)
+Enter Image Path: /mydrive/ts/0416d14707884715.jpg: Predicted in 15.232000 milli-seconds.
+0: 100%	(left_x:  296   top_y:  531   width:  278   height:  458)
+Enter Image Path: /mydrive/ts/541f3a7b19a92384.jpg: Predicted in 15.234000 milli-seconds.
+0: 100%	(left_x:  244   top_y:  204   width:  580   height:  500)
+Enter Image Path: /mydrive/ts/0567c0fbc7387c23.jpg: Predicted in 15.215000 milli-seconds.
+0: 100%	(left_x:   79   top_y:  681   width:  223   height:  316)
+5: 100%	(left_x:  359   top_y:  549   width:  367   height:  193)
+Enter Image Path: /mydrive/ts/759c6ad3534e454d.jpg: Predicted in 15.272000 milli-seconds.
+0: 100%	(left_x:  243   top_y:  214   width:  370   height:  750)
+Enter Image Path: /mydrive/ts/789cc0283c0e18af.jpg: Predicted in 15.176000 milli-seconds.
+6: 98%	(left_x:  160   top_y:  186   width:  725   height:  773)
+Enter Image Path: /mydrive/ts/805d2f6bfb4f5cba.jpg: Predicted in 15.280000 milli-seconds.
+5: 90%	(left_x:  340   top_y:  654   width:  233   height:   93)
+Enter Image Path: /mydrive/ts/0816a46ef71fa4c3.jpg: Predicted in 15.188000 milli-seconds.
+0: 100%	(left_x:  220   top_y:  575   width:  348   height:  435)
+Enter Image Path: /mydrive/ts/870b5390647d7334.jpg: Predicted in 15.324000 milli-seconds.
+6: 100%	(left_x:   42   top_y:  257   width:  964   height:  321)
+Enter Image Path: /mydrive/ts/889b637a70677371.jpg: Predicted in 15.219000 milli-seconds.
+0: 100%	(left_x:  337   top_y:  113   width:  363   height:  625)
+Enter Image Path: /mydrive/ts/895f12ea6424a8b8.jpg: Predicted in 15.200000 milli-seconds.
+5: 85%	(left_x:  319   top_y:  384   width:  188   height:  104)
+Enter Image Path: /mydrive/ts/1706c70c0576fc2f.jpg: Predicted in 15.181000 milli-seconds.
+0: 100%	(left_x:  213   top_y:  112   width:  606   height:  599)
+Enter Image Path: /mydrive/ts/1797c012d8d18a4e.jpg: Predicted in 15.284000 milli-seconds.
+0: 100%	(left_x:   98   top_y:  448   width:  323   height:  346)
+Enter Image Path: /mydrive/ts/2735b00feb6ca020.jpg: Predicted in 15.238000 milli-seconds.
+0: 100%	(left_x:  366   top_y:  202   width:  273   height:  515)
+Enter Image Path: /mydrive/ts/8872b7b84675a3c3.jpg: Predicted in 15.151000 milli-seconds.
+5: 100%	(left_x:  584   top_y:  520   width:   81   height:  101)
+Enter Image Path: /mydrive/ts/09542b695d7802a5.jpg: Predicted in 15.168000 milli-seconds.
+0: 100%	(left_x:  372   top_y:  472   width:  246   height:  535)
+Enter Image Path: /mydrive/ts/10085be0a892b552.jpg: Predicted in 15.177000 milli-seconds.
+5: 61%	(left_x:  150   top_y:  175   width:  344   height:  137)
+0: 100%	(left_x:  720   top_y:  442   width:  218   height:  289)
+Enter Image Path: /mydrive/ts/28201a8dd93aa481.jpg: Predicted in 15.299000 milli-seconds.
+0: 100%	(left_x:  182   top_y:  339   width:  306   height:  664)
+Enter Image Path: /mydrive/ts/29404a0f634ab198.jpg: Predicted in 15.226000 milli-seconds.
+0: 93%	(left_x:  -12   top_y:  155   width:  765   height:  789)
+Enter Image Path: /mydrive/ts/42298c9659ce6603.jpg: Predicted in 15.213000 milli-seconds.
+0: 100%	(left_x:  241   top_y:  191   width:  439   height:  661)
+Enter Image Path: /mydrive/ts/57998d922b4ddf3d.jpg: Predicted in 15.248000 milli-seconds.
+0: 100%	(left_x:  219   top_y:   13   width:  594   height:  568)
+Enter Image Path: /mydrive/ts/92419faaab8704a3.jpg: Predicted in 15.208000 milli-seconds.
+0: 100%	(left_x:  404   top_y:  401   width:  319   height:  361)
+Enter Image Path: /mydrive/ts/0168686b82b426e2.jpg: Predicted in 15.263000 milli-seconds.
+0: 100%	(left_x:  459   top_y:  282   width:  178   height:  439)
+0: 100%	(left_x:  725   top_y:  250   width:  252   height:  364)
+Enter Image Path: /mydrive/ts/253400a7957b4bd4.jpg: Predicted in 15.180000 milli-seconds.
+0: 99%	(left_x:  114   top_y:  762   width:  165   height:  223)
+Enter Image Path: /mydrive/ts/274448c47e66ad58.jpg: Predicted in 15.201000 milli-seconds.
+0: 100%	(left_x:  239   top_y:  685   width:  251   height:  271)
+Enter Image Path: /mydrive/ts/584110c20a4695d9.jpg: Predicted in 15.263000 milli-seconds.
+5: 100%	(left_x:   88   top_y:  298   width:  918   height:  424)
+Enter Image Path: /mydrive/ts/938650fe9135f7c9.jpg: Predicted in 15.093000 milli-seconds.
+0: 77%	(left_x:  357   top_y:  450   width:  251   height:  238)
+Enter Image Path: /mydrive/ts/3678595f2ad4c14d.jpg: Predicted in 15.291000 milli-seconds.
+6: 81%	(left_x:  194   top_y:   35   width:  758   height:  368)
+5: 94%	(left_x:  204   top_y:   51   width:  740   height:  338)
+Enter Image Path: /mydrive/ts/4768884ed678d9b5.jpg: Predicted in 15.165000 milli-seconds.
+0: 100%	(left_x:   51   top_y:   57   width:  817   height:  501)
+Enter Image Path: /mydrive/ts/015484347eacc20d.jpg: Predicted in 15.280000 milli-seconds.
+0: 100%	(left_x:   14   top_y:  487   width:  181   height:  231)
+0: 100%	(left_x:  295   top_y:  670   width:  172   height:  259)
+Enter Image Path: /mydrive/ts/88235844ed67df6b.jpg: Predicted in 15.198000 milli-seconds.
+5: 100%	(left_x:  242   top_y:  287   width:  579   height:  376)
+Enter Image Path: /mydrive/ts/a9db35ec9ae04f5a.jpg: Predicted in 15.224000 milli-seconds.
+5: 100%	(left_x:   44   top_y:  275   width:  318   height:  299)
+Enter Image Path: /mydrive/ts/a36b97b5d02bcfe1.jpg: Predicted in 15.213000 milli-seconds.
+0: 100%	(left_x:  105   top_y:  371   width:  236   height:  230)
+0: 100%	(left_x:  623   top_y:  300   width:  241   height:  354)
+Enter Image Path: /mydrive/ts/a577e4b339f721ec.jpg: Predicted in 15.217000 milli-seconds.
+0: 92%	(left_x:  439   top_y:  214   width:  256   height:  481)
+Enter Image Path: /mydrive/ts/abc964a692131ffd.jpg: Predicted in 15.225000 milli-seconds.
+5: 99%	(left_x:    8   top_y:  550   width:  305   height:  456)
+0: 100%	(left_x:  382   top_y:  438   width:  323   height:  537)
+Enter Image Path: /mydrive/ts/ac085b153d9f86f3.jpg: Predicted in 15.199000 milli-seconds.
+0: 100%	(left_x:  235   top_y:  580   width:  314   height:  419)
+Enter Image Path: /mydrive/ts/b0d2b23e20f5f17a.jpg: Predicted in 15.228000 milli-seconds.
+0: 100%	(left_x:  119   top_y:  277   width:  395   height:  628)
+Enter Image Path: /mydrive/ts/b99828fde655be90.jpg: Predicted in 15.260000 milli-seconds.
+0: 100%	(left_x:  137   top_y:   19   width:  583   height: 1006)
+Enter Image Path: /mydrive/ts/bd124d8770e781b5.jpg: Predicted in 15.321000 milli-seconds.
+0: 100%	(left_x:  354   top_y:  517   width:  141   height:  391)
+Enter Image Path: /mydrive/ts/bd354d5f2db15b31.jpg: Predicted in 15.298000 milli-seconds.
+5: 100%	(left_x:  457   top_y:  488   width:  413   height:  487)
+Enter Image Path: /mydrive/ts/bf51f30c43135ced.jpg: Predicted in 15.199000 milli-seconds.
+0: 100%	(left_x:  240   top_y:  115   width:  499   height:  844)
+Enter Image Path: /mydrive/ts/bfa52117d2d72a92.jpg: Predicted in 15.249000 milli-seconds.
+5: 100%	(left_x:  239   top_y:  305   width:  566   height:  231)
+Enter Image Path: /mydrive/ts/c5d4ebcdbff626e6.jpg: Predicted in 15.300000 milli-seconds.
+0: 100%	(left_x:   12   top_y:  495   width:  188   height:  276)
+Enter Image Path: /mydrive/ts/c0074b01873eaff2.jpg: Predicted in 15.327000 milli-seconds.
+0: 100%	(left_x:  202   top_y:  520   width:  448   height:  487)
+Enter Image Path: /mydrive/ts/c305409b654b9a55.jpg: Predicted in 15.191000 milli-seconds.
+0: 100%	(left_x:    7   top_y:  405   width:  565   height:  487)
+Enter Image Path: /mydrive/ts/ca8d1d7724023bc1.jpg: Predicted in 15.209000 milli-seconds.
+0: 100%	(left_x:  226   top_y:  312   width:  300   height:  440)
+0: 100%	(left_x:  718   top_y:  217   width:  216   height:  430)
+Enter Image Path: /mydrive/ts/cacb65ba29cc6999.jpg: Predicted in 15.258000 milli-seconds.
+0: 100%	(left_x:  172   top_y:  451   width:  321   height:  528)
+Enter Image Path: /mydrive/ts/d4d56be42630113c.jpg: Predicted in 15.186000 milli-seconds.
+0: 100%	(left_x:  628   top_y:  118   width:  350   height:  404)
+Enter Image Path: /mydrive/ts/d6c4ef4e80b239a2.jpg: Predicted in 15.351000 milli-seconds.
+0: 100%	(left_x:  261   top_y:  459   width:  390   height:  386)
+Enter Image Path: /mydrive/ts/d7e4c38d9e02e13e.jpg: Predicted in 15.309000 milli-seconds.
+0: 99%	(left_x:  184   top_y:   77   width:  406   height:  791)
+Enter Image Path: /mydrive/ts/d64663ae54c86ebf.jpg: Predicted in 15.198000 milli-seconds.
+5: 97%	(left_x:  262   top_y:  625   width:  365   height:  185)
+Enter Image Path: /mydrive/ts/de867222aa316b50.jpg: Predicted in 15.195000 milli-seconds.
+0: 100%	(left_x:   88   top_y:  183   width:  624   height:  500)
+Enter Image Path: /mydrive/ts/df4c3b33cc693d02.jpg: Predicted in 15.314000 milli-seconds.
+6: 99%	(left_x:   62   top_y:  248   width:  818   height:  520)
+Enter Image Path: /mydrive/ts/df6efe4d6822345b.jpg: Predicted in 15.216000 milli-seconds.
+0: 100%	(left_x:  123   top_y:  509   width:  349   height:  479)
+Enter Image Path: /mydrive/ts/e084d551e095a2e6.jpg: Predicted in 15.234000 milli-seconds.
+0: 100%	(left_x:  406   top_y:  533   width:  335   height:  485)
+Enter Image Path: /mydrive/ts/e466f02a20f05255.jpg: Predicted in 15.183000 milli-seconds.
+0: 100%	(left_x:  318   top_y:  344   width:  416   height:  489)
+Enter Image Path: /mydrive/ts/e592d4bdd8898e16.jpg: Predicted in 15.287000 milli-seconds.
+0: 100%	(left_x:  251   top_y:  622   width:  213   height:  184)
+Enter Image Path: /mydrive/ts/e005193f9a9c5e78.jpg: Predicted in 15.261000 milli-seconds.
+0: 100%	(left_x:  374   top_y:  677   width:  247   height:  316)
+Enter Image Path: /mydrive/ts/e6130ea33f1135c3.jpg: Predicted in 15.291000 milli-seconds.
+3: 100%	(left_x:  226   top_y:  154   width:  160   height:  307)
+5: 100%	(left_x:  400   top_y:  476   width:  239   height:  130)
+3: 99%	(left_x:  594   top_y:  161   width:  144   height:  310)
+Enter Image Path: /mydrive/ts/f54e3c8eb90597b0.jpg: Predicted in 15.204000 milli-seconds.
+0: 100%	(left_x:   12   top_y:   85   width:  536   height:  881)
+Enter Image Path: /mydrive/ts/f80b3c2857780ba9.jpg: Predicted in 15.282000 milli-seconds.
+5: 100%	(left_x:  154   top_y:  514   width:  524   height:  442)
+Enter Image Path: /mydrive/ts/f089e8783afb9731.jpg: Predicted in 15.334000 milli-seconds.
+0: 100%	(left_x:  605   top_y:  480   width:  241   height:  199)
+Enter Image Path: /mydrive/ts/fe2643120ad171f8.jpg: Predicted in 15.218000 milli-seconds.
+0: 100%	(left_x:  141   top_y:  483   width:  506   height:  513)
+Enter Image Path: /mydrive/ts/ff750ffb8ba2db7c.jpg: Predicted in 15.204000 milli-seconds.
+5: 95%	(left_x:  350   top_y:  369   width:  152   height:   65)
+Enter Image Path: /mydrive/ts/00f03ff0eee0b5a3.jpg: Predicted in 15.258000 milli-seconds.
+2: 100%	(left_x:  152   top_y:   76   width:  590   height:  887)
+Enter Image Path: /mydrive/ts/0a6bc386b28f2aac.jpg: Predicted in 15.207000 milli-seconds.
+2: 100%	(left_x:  194   top_y:  420   width:  543   height:  292)
+2: 100%	(left_x:  408   top_y:  460   width:  605   height:  297)
+Enter Image Path: /mydrive/ts/0a8156bd580e0735.jpg: Predicted in 15.174000 milli-seconds.
+2: 100%	(left_x:  316   top_y:  123   width:  322   height:  320)
+Enter Image Path: /mydrive/ts/0e02bd4940259ef5.jpg: Predicted in 15.216000 milli-seconds.
+2: 100%	(left_x:  121   top_y:  514   width:  595   height:  485)
+3: 100%	(left_x:  497   top_y:  137   width:  273   height:  369)
+Enter Image Path: /mydrive/ts/0f3d33496ac15db3.jpg: Predicted in 15.231000 milli-seconds.
+2: 100%	(left_x:  294   top_y:  285   width:  521   height:  442)
+Enter Image Path: /mydrive/ts/0fd2749001aae043.jpg: Predicted in 15.219000 milli-seconds.
+2: 98%	(left_x:  192   top_y:  526   width:  327   height:  332)
+Enter Image Path: /mydrive/ts/1b4625dc2ae401f0.jpg: Predicted in 15.185000 milli-seconds.
+2: 94%	(left_x:    3   top_y:  165   width:  646   height:  611)
+2: 99%	(left_x:  297   top_y:  195   width:  733   height:  554)
+Enter Image Path: /mydrive/ts/1f6d040583d081ec.jpg: Predicted in 15.198000 milli-seconds.
+2: 99%	(left_x:   73   top_y:  251   width:  758   height:  429)
+2: 100%	(left_x:  526   top_y:  242   width:  517   height:  355)
+Enter Image Path: /mydrive/ts/02a74181f8a40679.jpg: Predicted in 15.224000 milli-seconds.
+2: 100%	(left_x:  374   top_y:  473   width:  481   height:  299)
+Enter Image Path: /mydrive/ts/2aa0fc5fd446bc5a.jpg: Predicted in 15.220000 milli-seconds.
+2: 100%	(left_x:  496   top_y:  296   width:  443   height:  371)
+Enter Image Path: /mydrive/ts/2c438ba69023be9a.jpg: Predicted in 15.219000 milli-seconds.
+2: 65%	(left_x:  180   top_y:  191   width:  624   height:  591)
+Enter Image Path: /mydrive/ts/2df2f2249309eeac.jpg: Predicted in 15.246000 milli-seconds.
+2: 100%	(left_x:  271   top_y:  257   width:  552   height:  370)
+Enter Image Path: /mydrive/ts/2ff51a0fcec50f88.jpg: Predicted in 15.201000 milli-seconds.
+2: 99%	(left_x:   98   top_y:  159   width:  735   height:  497)
+Enter Image Path: /mydrive/ts/03c361bef79191b7.jpg: Predicted in 15.309000 milli-seconds.
+2: 100%	(left_x:  141   top_y:   43   width:  695   height:  717)
+Enter Image Path: /mydrive/ts/03e4dd0a6c7a8da0.jpg: Predicted in 15.198000 milli-seconds.
+2: 100%	(left_x:   16   top_y:  318   width:  629   height:  365)
+Enter Image Path: /mydrive/ts/3a2b980406d7499e.jpg: Predicted in 15.336000 milli-seconds.
+2: 100%	(left_x:  415   top_y:  274   width:  283   height:  202)
+Enter Image Path: /mydrive/ts/3bf82fc974f2c006.jpg: Predicted in 15.271000 milli-seconds.
+2: 100%	(left_x:  488   top_y:  322   width:  446   height:  197)
+Enter Image Path: /mydrive/ts/3fb5e100e9962553.jpg: Predicted in 15.345000 milli-seconds.
+2: 99%	(left_x:  427   top_y:  295   width:  599   height:  295)
+Enter Image Path: /mydrive/ts/04f4d71d477c261b.jpg: Predicted in 15.219000 milli-seconds.
+2: 100%	(left_x:   68   top_y:  233   width:  909   height:  334)
+Enter Image Path: /mydrive/ts/04f54b260fba9836.jpg: Predicted in 15.281000 milli-seconds.
+2: 100%	(left_x:  364   top_y:  315   width:  425   height:  304)
+Enter Image Path: /mydrive/ts/4b1855ae0bb3f804.jpg: Predicted in 15.250000 milli-seconds.
+2: 100%	(left_x:  227   top_y:  323   width:  554   height:  407)
+Enter Image Path: /mydrive/ts/4d737aa19cbc86e6.jpg: Predicted in 15.239000 milli-seconds.
+2: 100%	(left_x:  309   top_y:  441   width:  506   height:  223)
+Enter Image Path: /mydrive/ts/4db2eb1261aaec05.jpg: Predicted in 15.179000 milli-seconds.
+2: 100%	(left_x:  352   top_y:  428   width:  330   height:  157)
+Enter Image Path: /mydrive/ts/4f7cd71e3ddeb7e7.jpg: Predicted in 15.260000 milli-seconds.
+2: 100%	(left_x:  401   top_y:  260   width:  544   height:  428)
+3: 100%	(left_x:  432   top_y:   60   width:  304   height:  214)
+Enter Image Path: /mydrive/ts/05c3ac11049b8c07.jpg: Predicted in 15.163000 milli-seconds.
+2: 100%	(left_x:  203   top_y:  306   width:  294   height:  292)
+2: 100%	(left_x:  462   top_y:  302   width:  337   height:  320)
+Enter Image Path: /mydrive/ts/05c6d91be7bbe4e0.jpg: Predicted in 15.157000 milli-seconds.
+2: 100%	(left_x:  452   top_y:  339   width:  487   height:  243)
+Enter Image Path: /mydrive/ts/5ebc104d9d7f872c.jpg: Predicted in 15.231000 milli-seconds.
+2: 98%	(left_x:   -1   top_y:  388   width:  990   height:  384)
+Enter Image Path: /mydrive/ts/5f5d89349c64491f.jpg: Predicted in 15.226000 milli-seconds.
+2: 100%	(left_x:  245   top_y:  250   width:  680   height:  507)
+Enter Image Path: /mydrive/ts/06a1b42ff10a797c.jpg: Predicted in 15.146000 milli-seconds.
+2: 100%	(left_x:   90   top_y:  131   width:  640   height:  523)
+Enter Image Path: /mydrive/ts/06b1fe8fb9939320.jpg: Predicted in 15.199000 milli-seconds.
+2: 100%	(left_x:  153   top_y:  436   width:  769   height:  324)
+Enter Image Path: /mydrive/ts/6a9ce7a7b5f39787.jpg: Predicted in 15.223000 milli-seconds.
+2: 100%	(left_x:   22   top_y:  212   width:  639   height:  468)
+Enter Image Path: /mydrive/ts/6aaa0855fc73d30a.jpg: Predicted in 15.213000 milli-seconds.
+2: 100%	(left_x:  135   top_y:  240   width:  564   height:  472)
+Enter Image Path: /mydrive/ts/6bfd65af476cd193.jpg: Predicted in 15.219000 milli-seconds.
+2: 100%	(left_x:    4   top_y:  398   width:  555   height:  368)
+Enter Image Path: /mydrive/ts/6c3ba7b8844e1ab5.jpg: Predicted in 15.190000 milli-seconds.
+2: 100%	(left_x:  292   top_y:  325   width:  376   height:  155)
+2: 100%	(left_x:  298   top_y:  391   width:  304   height:  258)
+3: 100%	(left_x:  492   top_y:   59   width:  321   height:  282)
+Enter Image Path: /mydrive/ts/6c75a3d82722a558.jpg: Predicted in 15.150000 milli-seconds.
+2: 100%	(left_x:  113   top_y:  263   width:  519   height:  299)
+Enter Image Path: /mydrive/ts/6db27320d4807c09.jpg: Predicted in 15.195000 milli-seconds.
+2: 100%	(left_x:  337   top_y:  355   width:  476   height:  295)
+Enter Image Path: /mydrive/ts/7bb6b15321d03257.jpg: Predicted in 15.224000 milli-seconds.
+2: 100%	(left_x:  341   top_y:  285   width:  667   height:  353)
+Enter Image Path: /mydrive/ts/7c7ef471d10c96bb.jpg: Predicted in 15.225000 milli-seconds.
+2: 100%	(left_x:  442   top_y:  300   width:  234   height:  246)
+2: 100%	(left_x:  653   top_y:  317   width:  281   height:  289)
+Enter Image Path: /mydrive/ts/7e25d0b92a0a552e.jpg: Predicted in 15.088000 milli-seconds.
+2: 100%	(left_x:  125   top_y:  498   width:  456   height:  263)
+Enter Image Path: /mydrive/ts/7f40815def1213fc.jpg: Predicted in 15.347000 milli-seconds.
+2: 100%	(left_x:  301   top_y:  313   width:  414   height:  345)
+3: 91%	(left_x:  810   top_y:  160   width:   35   height:  281)
+Enter Image Path: /mydrive/ts/8a2edaa67e4b5c89.jpg: Predicted in 15.192000 milli-seconds.
+2: 56%	(left_x:   -2   top_y: -135   width:  957   height:  905)
+Enter Image Path: /mydrive/ts/8bba4f1e0bd58993.jpg: Predicted in 15.234000 milli-seconds.
+2: 100%	(left_x:  239   top_y:  332   width:  576   height:  323)
+Enter Image Path: /mydrive/ts/09e25bfab879cc63.jpg: Predicted in 15.287000 milli-seconds.
+3: 100%	(left_x:  239   top_y:  462   width:   56   height:   89)
+3: 100%	(left_x:  275   top_y:  334   width:   61   height:   83)
+3: 99%	(left_x:  318   top_y:  468   width:   41   height:   81)
+3: 100%	(left_x:  427   top_y:  445   width:   43   height:   88)
+3: 100%	(left_x:  514   top_y:  451   width:   46   height:   74)
+Enter Image Path: /mydrive/ts/9a5c628882842673.jpg: Predicted in 15.187000 milli-seconds.
+2: 100%	(left_x:  177   top_y:  215   width:  561   height:  424)
+Enter Image Path: /mydrive/ts/9d8277e68c7a742c.jpg: Predicted in 15.237000 milli-seconds.
+2: 99%	(left_x:    9   top_y:  366   width:  797   height:  563)
+Enter Image Path: /mydrive/ts/10b44e9a6114d7af.jpg: Predicted in 15.270000 milli-seconds.
+2: 99%	(left_x:  306   top_y:  245   width:  691   height:  489)
+Enter Image Path: /mydrive/ts/10e090b3b0a90c7d.jpg: Predicted in 15.217000 milli-seconds.
+2: 99%	(left_x:  353   top_y:  327   width:  629   height:  356)
+Enter Image Path: /mydrive/ts/14ee9fce02bb7c46.jpg: Predicted in 15.312000 milli-seconds.
+2: 100%	(left_x:  287   top_y:  237   width:  584   height:  531)
+Enter Image Path: /mydrive/ts/015fece59b820f4d.jpg: Predicted in 15.187000 milli-seconds.
+2: 98%	(left_x:  183   top_y:  431   width:  485   height:  306)
+Enter Image Path: /mydrive/ts/26fafb6492e7c495.jpg: Predicted in 15.150000 milli-seconds.
+2: 99%	(left_x:  140   top_y:   37   width:  816   height:  587)
+Enter Image Path: /mydrive/ts/37e8930607fd5058.jpg: Predicted in 15.301000 milli-seconds.
+2: 99%	(left_x:  234   top_y:  164   width:  787   height:  599)
+Enter Image Path: /mydrive/ts/37ff506923d56974.jpg: Predicted in 15.242000 milli-seconds.
+2: 100%	(left_x:  228   top_y:  407   width:  443   height:  407)
+3: 100%	(left_x:  736   top_y:   78   width:  211   height:  284)
+Enter Image Path: /mydrive/ts/040f7caee109ab4b.jpg: Predicted in 15.239000 milli-seconds.
+2: 99%	(left_x:  155   top_y:  274   width:  854   height:  409)
+Enter Image Path: /mydrive/ts/46c0d9150e908fa5.jpg: Predicted in 15.196000 milli-seconds.
+2: 100%	(left_x:   75   top_y:  586   width:  588   height:  430)
+Enter Image Path: /mydrive/ts/54c9377f3a57cc46.jpg: Predicted in 15.198000 milli-seconds.
+2: 100%	(left_x:   37   top_y:  236   width:  663   height:  451)
+Enter Image Path: /mydrive/ts/60f5f7ca3ba09735.jpg: Predicted in 15.184000 milli-seconds.
+2: 100%	(left_x:  261   top_y:  260   width:  512   height:  345)
+Enter Image Path: /mydrive/ts/62d1fd92c49db70c.jpg: Predicted in 15.241000 milli-seconds.
+2: 60%	(left_x:  156   top_y:  269   width:  641   height:  513)
+2: 81%	(left_x:  348   top_y:  366   width:  384   height:  370)
+2: 79%	(left_x:  858   top_y:  469   width:  152   height:  205)
+Enter Image Path: /mydrive/ts/64f61887da9db716.jpg: Predicted in 15.285000 milli-seconds.
+2: 100%	(left_x:  370   top_y:  160   width:  528   height:  470)
+Enter Image Path: /mydrive/ts/81eb70cd87fc5bb7.jpg: Predicted in 15.095000 milli-seconds.
+2: 100%	(left_x:  490   top_y:  186   width:  479   height:  399)
+Enter Image Path: /mydrive/ts/83ac29a2c55adec0.jpg: Predicted in 15.299000 milli-seconds.
+2: 100%	(left_x:  394   top_y:  312   width:  280   height:  176)
+Enter Image Path: /mydrive/ts/89ebcbedd53b8e9b.jpg: Predicted in 15.319000 milli-seconds.
+2: 100%	(left_x:  217   top_y:  176   width:  419   height:  404)
+2: 67%	(left_x:  714   top_y:  346   width:  292   height:  315)
+Enter Image Path: /mydrive/ts/94a28a91606fca82.jpg: Predicted in 15.254000 milli-seconds.
+2: 100%	(left_x:  217   top_y:  325   width:  462   height:  227)
+Enter Image Path: /mydrive/ts/0348ac252d422b01.jpg: Predicted in 15.280000 milli-seconds.
+2: 100%	(left_x:  228   top_y:  392   width:  612   height:  333)
+Enter Image Path: /mydrive/ts/408bfc9875660552.jpg: Predicted in 15.345000 milli-seconds.
+2: 99%	(left_x:  139   top_y:  405   width:  619   height:  372)
+Enter Image Path: /mydrive/ts/0514d9c47afe5aa3.jpg: Predicted in 15.278000 milli-seconds.
+2: 100%	(left_x:  422   top_y:  163   width:  391   height:  417)
+Enter Image Path: /mydrive/ts/536fb55c0810af24.jpg: Predicted in 15.181000 milli-seconds.
+2: 99%	(left_x:   30   top_y:  -89   width:  986   height:  886)
+Enter Image Path: /mydrive/ts/588ba1613aa45b85.jpg: Predicted in 15.208000 milli-seconds.
+2: 99%	(left_x:   30   top_y:   40   width:  985   height:  797)
+Enter Image Path: /mydrive/ts/654c670fd93a9392.jpg: Predicted in 15.196000 milli-seconds.
+2: 100%	(left_x:  148   top_y:  171   width:  748   height:  492)
+Enter Image Path: /mydrive/ts/666a614b3123dff9.jpg: Predicted in 15.263000 milli-seconds.
+2: 99%	(left_x:   10   top_y:  308   width:  659   height:  462)
+2: 99%	(left_x:  499   top_y:  287   width:  521   height:  478)
+Enter Image Path: /mydrive/ts/767e343a4ed08da3.jpg: Predicted in 15.320000 milli-seconds.
+2: 100%	(left_x:  176   top_y:   14   width:  372   height:  494)
+Enter Image Path: /mydrive/ts/772ebe1e4aee175c.jpg: Predicted in 15.258000 milli-seconds.
+2: 100%	(left_x:  535   top_y:  305   width:  487   height:  350)
+Enter Image Path: /mydrive/ts/857ead1c1ed7323e.jpg: Predicted in 15.296000 milli-seconds.
+2: 100%	(left_x:  247   top_y:  350   width:  513   height:  342)
+Enter Image Path: /mydrive/ts/910d96da20fdbf86.jpg: Predicted in 15.193000 milli-seconds.
+2: 99%	(left_x:  454   top_y:  178   width:  495   height:  485)
+Enter Image Path: /mydrive/ts/1037d6fd93f8b6cd.jpg: Predicted in 15.218000 milli-seconds.
+2: 100%	(left_x:  279   top_y:  311   width:  414   height:  328)
+Enter Image Path: /mydrive/ts/1866b74f1e0251e4.jpg: Predicted in 15.239000 milli-seconds.
+2: 99%	(left_x:   -9   top_y:  359   width:  998   height:  419)
+Enter Image Path: /mydrive/ts/3003b071757333a4.jpg: Predicted in 15.188000 milli-seconds.
+2: 100%	(left_x:   61   top_y:   60   width:  510   height:  602)
+Enter Image Path: /mydrive/ts/3525cf9a1fae75dd.jpg: Predicted in 15.298000 milli-seconds.
+2: 100%	(left_x:  183   top_y:  266   width:  556   height:  459)
+Enter Image Path: /mydrive/ts/5811c2f1cdf89ebc.jpg: Predicted in 15.209000 milli-seconds.
+2: 100%	(left_x:  142   top_y:  176   width:  711   height:  326)
+Enter Image Path: /mydrive/ts/6338c5d6ee8bfce9.jpg: Predicted in 15.310000 milli-seconds.
+2: 100%	(left_x:  163   top_y:  273   width:  665   height:  480)
+Enter Image Path: /mydrive/ts/07345a76f2e01289.jpg: Predicted in 15.194000 milli-seconds.
+2: 100%	(left_x:  176   top_y:  140   width:  761   height:  632)
+Enter Image Path: /mydrive/ts/07661adce4bce6f3.jpg: Predicted in 15.136000 milli-seconds.
+2: 100%	(left_x:  208   top_y:  193   width:  545   height:  384)
+Enter Image Path: /mydrive/ts/8046f990e83fa1a9.jpg: Predicted in 15.273000 milli-seconds.
+2: 100%	(left_x:  169   top_y:  355   width:  477   height:  398)
+3: 100%	(left_x:  587   top_y:  279   width:  115   height:  129)
+Enter Image Path: /mydrive/ts/9542c109fb24d650.jpg: Predicted in 15.305000 milli-seconds.
+2: 100%	(left_x:  120   top_y:  204   width:  714   height:  540)
+Enter Image Path: /mydrive/ts/12538c3d07abc46f.jpg: Predicted in 15.161000 milli-seconds.
+2: 100%	(left_x:  291   top_y:  299   width:  424   height:  233)
+Enter Image Path: /mydrive/ts/13614cdc111deb33.jpg: Predicted in 15.215000 milli-seconds.
+2: 99%	(left_x:  302   top_y:  173   width:  721   height:  457)
+Enter Image Path: /mydrive/ts/041966e5a2e2b171.jpg: Predicted in 15.183000 milli-seconds.
+2: 100%	(left_x:  248   top_y:  339   width:  677   height:  318)
+3: 77%	(left_x:  644   top_y:   -2   width:  241   height:  381)
+Enter Image Path: /mydrive/ts/44167b13e878ee25.jpg: Predicted in 15.348000 milli-seconds.
+2: 100%	(left_x:   95   top_y:  470   width:  555   height:  463)
+Enter Image Path: /mydrive/ts/057937c705b0a068.jpg: Predicted in 15.220000 milli-seconds.
+2: 100%	(left_x:  326   top_y:  321   width:  687   height:  259)
+Enter Image Path: /mydrive/ts/68907defc0c961e1.jpg: Predicted in 15.240000 milli-seconds.
+2: 100%	(left_x:    3   top_y:  350   width:  621   height:  417)
+Enter Image Path: /mydrive/ts/174975aa35221183.jpg: Predicted in 15.336000 milli-seconds.
+2: 100%	(left_x:  363   top_y:  245   width:  506   height:  352)
+Enter Image Path: /mydrive/ts/954866d05090f3c3.jpg: Predicted in 15.168000 milli-seconds.
+2: 100%	(left_x:  354   top_y:  276   width:  409   height:  287)
+Enter Image Path: /mydrive/ts/961088f3eeacb4d6.jpg: Predicted in 15.211000 milli-seconds.
+2: 100%	(left_x:  171   top_y:  268   width:  397   height:  402)
+Enter Image Path: /mydrive/ts/037589768556e2f2.jpg: Predicted in 15.146000 milli-seconds.
+2: 100%	(left_x:  107   top_y:  252   width:  568   height:  642)
+Enter Image Path: /mydrive/ts/7188156925738c50.jpg: Predicted in 15.293000 milli-seconds.
+2: 100%	(left_x:  208   top_y:   97   width:  706   height:  659)
+Enter Image Path: /mydrive/ts/a1e8ff6e0a10fb3b.jpg: Predicted in 15.205000 milli-seconds.
+2: 100%	(left_x:   65   top_y:  219   width:  722   height:  553)
+Enter Image Path: /mydrive/ts/a4ae08b0b2490c1c.jpg: Predicted in 15.256000 milli-seconds.
+2: 100%	(left_x:   93   top_y:  139   width:  904   height:  539)
+Enter Image Path: /mydrive/ts/a7f80ae609f9ec84.jpg: Predicted in 15.320000 milli-seconds.
+2: 100%	(left_x:  213   top_y:  255   width:  625   height:  436)
+Enter Image Path: /mydrive/ts/a92113b2150cbc53.jpg: Predicted in 15.324000 milli-seconds.
+2: 98%	(left_x:   73   top_y:   37   width:  821   height:  726)
+Enter Image Path: /mydrive/ts/aa0621fe489d5fb6.jpg: Predicted in 15.240000 milli-seconds.
+2: 99%	(left_x:  294   top_y:  362   width:  682   height:  259)
+Enter Image Path: /mydrive/ts/aae5f9ae9ea62b13.jpg: Predicted in 15.158000 milli-seconds.
+2: 100%	(left_x:  437   top_y:  312   width:  530   height:  351)
+Enter Image Path: /mydrive/ts/afacfc5418cd4f5a.jpg: Predicted in 15.418000 milli-seconds.
+2: 100%	(left_x:  215   top_y:  254   width:  542   height:  364)
+Enter Image Path: /mydrive/ts/b5f7b2aa13abe836.jpg: Predicted in 15.315000 milli-seconds.
+2: 99%	(left_x:   70   top_y:  583   width:  800   height:  429)
+Enter Image Path: /mydrive/ts/b6db7559515927ef.jpg: Predicted in 15.170000 milli-seconds.
+Enter Image Path: /mydrive/ts/b8a1ea87d111404d.jpg: Predicted in 15.288000 milli-seconds.
+2: 99%	(left_x:   26   top_y:   51   width: 1001   height:  692)
+Enter Image Path: /mydrive/ts/b8abbb92c6ccd145.jpg: Predicted in 15.263000 milli-seconds.
+2: 100%	(left_x:  136   top_y:  177   width:  659   height:  486)
+Enter Image Path: /mydrive/ts/b9e8bb9b4143a416.jpg: Predicted in 15.258000 milli-seconds.
+2: 100%	(left_x:    9   top_y:  291   width:  722   height:  389)
+3: 99%	(left_x:  766   top_y:  131   width:  139   height:  130)
+Enter Image Path: /mydrive/ts/b16d376593523271.jpg: Predicted in 15.227000 milli-seconds.
+2: 100%	(left_x:   35   top_y:  199   width:  767   height:  545)
+Enter Image Path: /mydrive/ts/b27d49e01147e6d0.jpg: Predicted in 15.280000 milli-seconds.
+2: 100%	(left_x:  141   top_y:  151   width:  427   height:  440)
+2: 100%	(left_x:  355   top_y:  135   width:  666   height:  529)
+Enter Image Path: /mydrive/ts/b0968a3481595833.jpg: Predicted in 15.191000 milli-seconds.
+2: 100%	(left_x:  107   top_y:  305   width:  600   height:  427)
+Enter Image Path: /mydrive/ts/b10532ff45971fff.jpg: Predicted in 15.135000 milli-seconds.
+2: 100%	(left_x:   94   top_y:  268   width:  936   height:  460)
+Enter Image Path: /mydrive/ts/bac6baeb900b6bbb.jpg: Predicted in 15.057000 milli-seconds.
+2: 100%	(left_x:  322   top_y:  292   width:  563   height:  402)
+Enter Image Path: /mydrive/ts/bc651083c9af7b89.jpg: Predicted in 15.318000 milli-seconds.
+2: 100%	(left_x:  119   top_y:  127   width:  813   height:  596)
+Enter Image Path: /mydrive/ts/c6bd690a01336315.jpg: Predicted in 15.200000 milli-seconds.
+2: 100%	(left_x:   88   top_y:  284   width:  769   height:  688)
+Enter Image Path: /mydrive/ts/c7b116f2c0688794.jpg: Predicted in 15.286000 milli-seconds.
+2: 100%	(left_x:  232   top_y:  345   width:  158   height:  197)
+2: 100%	(left_x:  337   top_y:  291   width:  295   height:  203)
+2: 100%	(left_x:  622   top_y:  345   width:  147   height:  184)
+Enter Image Path: /mydrive/ts/cd2ded9ae21c7f0e.jpg: Predicted in 15.234000 milli-seconds.
+2: 100%	(left_x:  313   top_y:  274   width:  536   height:  412)
+Enter Image Path: /mydrive/ts/ce442e81fded4107.jpg: Predicted in 15.260000 milli-seconds.
+2: 100%	(left_x:   41   top_y:  183   width:  647   height:  505)
+2: 60%	(left_x:  911   top_y:  412   width:  116   height:  259)
+Enter Image Path: /mydrive/ts/cecb4e3e4dc73c94.jpg: Predicted in 15.298000 milli-seconds.
+2: 99%	(left_x:  232   top_y:  208   width:  542   height:  421)
+Enter Image Path: /mydrive/ts/d4c678446ac62cc1.jpg: Predicted in 15.192000 milli-seconds.
+2: 100%	(left_x:  528   top_y:  339   width:  395   height:  168)
+Enter Image Path: /mydrive/ts/d368abda0a810957.jpg: Predicted in 15.181000 milli-seconds.
+2: 100%	(left_x:   55   top_y:  579   width:  591   height:  404)
+3: 100%	(left_x:  377   top_y:   86   width:  199   height:  453)
+Enter Image Path: /mydrive/ts/da65cf99b09a0b1e.jpg: Predicted in 15.248000 milli-seconds.
+2: 100%	(left_x:  163   top_y:  218   width:  564   height:  369)
+Enter Image Path: /mydrive/ts/dbc25923981590f4.jpg: Predicted in 15.179000 milli-seconds.
+2: 99%	(left_x:   93   top_y:  310   width:  909   height:  431)
+Enter Image Path: /mydrive/ts/e6d2177c64f8ff20.jpg: Predicted in 15.327000 milli-seconds.
+2: 100%	(left_x:  216   top_y:  378   width:  630   height:  370)
+Enter Image Path: /mydrive/ts/e6e594c3a0a5f553.jpg: Predicted in 15.230000 milli-seconds.
+2: 100%	(left_x:  176   top_y:  379   width:  283   height:  196)
+2: 100%	(left_x:  578   top_y:  340   width:  143   height:  250)
+Enter Image Path: /mydrive/ts/e182b03bf41d49c5.jpg: Predicted in 15.214000 milli-seconds.
+2: 100%	(left_x:  118   top_y:  289   width:  565   height:  368)
+Enter Image Path: /mydrive/ts/e2089d2390b6031c.jpg: Predicted in 15.194000 milli-seconds.
+2: 100%	(left_x:  177   top_y:   44   width:  718   height:  428)
+Enter Image Path: /mydrive/ts/e56974045a619d00.jpg: Predicted in 15.304000 milli-seconds.
+2: 100%	(left_x:  226   top_y:  336   width:  600   height:  328)
+Enter Image Path: /mydrive/ts/eb4f027e524f2997.jpg: Predicted in 15.246000 milli-seconds.
+2: 100%	(left_x:   73   top_y:  128   width:  819   height:  550)
+Enter Image Path: /mydrive/ts/efa1583a01464639.jpg: Predicted in 15.256000 milli-seconds.
+2: 99%	(left_x:  -19   top_y:  229   width:  753   height:  453)
+2: 100%	(left_x:  365   top_y:  255   width:  449   height:  310)
+Enter Image Path: /mydrive/ts/f4c379dddb46390f.jpg: Predicted in 15.174000 milli-seconds.
+2: 99%	(left_x:   77   top_y:  202   width:  883   height:  427)
+Enter Image Path: /mydrive/ts/f43c4a7b26add962.jpg: Predicted in 15.305000 milli-seconds.
+2: 100%	(left_x:  151   top_y:  221   width:  874   height:  551)
+Enter Image Path: /mydrive/ts/f57efc76dfd7d169.jpg: Predicted in 15.230000 milli-seconds.
+2: 100%	(left_x:   71   top_y:  273   width:  752   height:  487)
+Enter Image Path: /mydrive/ts/f258e76e0b1795a8.jpg: Predicted in 15.201000 milli-seconds.
+2: 100%	(left_x:   75   top_y:  334   width:  372   height:  283)
+2: 100%	(left_x:  559   top_y:  330   width:  298   height:  246)
+Enter Image Path: /mydrive/ts/f866d4c2469424ac.jpg: Predicted in 15.188000 milli-seconds.
+2: 100%	(left_x:  337   top_y:  424   width:  636   height:  371)
+Enter Image Path: /mydrive/ts/ffb716498f082103.jpg: Predicted in 15.275000 milli-seconds.
+2: 100%	(left_x:  199   top_y:  199   width:  816   height:  486)
+3: 100%	(left_x:  237   top_y:   76   width:  231   height:  242)
+Enter Image Path: /mydrive/ts/0a21bebc0dd5c137.jpg: Predicted in 15.241000 milli-seconds.
+Enter Image Path: /mydrive/ts/0b2f718b4b284314.jpg: Predicted in 15.333000 milli-seconds.
+4: 100%	(left_x:  481   top_y:  475   width:  155   height:  117)
+Enter Image Path: /mydrive/ts/0d8cf2541deb7f77.jpg: Predicted in 15.256000 milli-seconds.
+4: 72%	(left_x:  -49   top_y:   -9   width: 1161   height:  780)
+Enter Image Path: /mydrive/ts/0e608b589d55fc83.jpg: Predicted in 15.207000 milli-seconds.
+4: 100%	(left_x:  113   top_y:   76   width:  844   height:  546)
+Enter Image Path: /mydrive/ts/0f63b4f011d2df25.jpg: Predicted in 15.203000 milli-seconds.
+4: 98%	(left_x:    3   top_y:   34   width:  578   height:  467)
+Enter Image Path: /mydrive/ts/0fb91bd32b39649d.jpg: Predicted in 15.280000 milli-seconds.
+1: 100%	(left_x:    8   top_y:  256   width:  282   height:  396)
+Enter Image Path: /mydrive/ts/1c11f389a2f2673a.jpg: Predicted in 15.247000 milli-seconds.
+4: 98%	(left_x:  155   top_y:   34   width:  699   height:  561)
+Enter Image Path: /mydrive/ts/1c982d27b6c36e2f.jpg: Predicted in 15.180000 milli-seconds.
+1: 100%	(left_x:   89   top_y:  224   width:  468   height:  749)
+Enter Image Path: /mydrive/ts/1c2868141487ec3c.jpg: Predicted in 15.276000 milli-seconds.
+5: 100%	(left_x:  183   top_y:  297   width:  184   height:   81)
+3: 100%	(left_x:  188   top_y:   54   width:  170   height:  300)
+1: 100%	(left_x:  439   top_y:  161   width:  173   height:  375)
+3: 47%	(left_x:  656   top_y:  221   width:   34   height:   69)
+Enter Image Path: /mydrive/ts/1cb3056e0bac0d2e.jpg: Predicted in 15.319000 milli-seconds.
+5: 99%	(left_x:   60   top_y:  178   width:  912   height:  336)
+Enter Image Path: /mydrive/ts/1ebc14a30165c73a.jpg: Predicted in 15.229000 milli-seconds.
+4: 100%	(left_x:  225   top_y:  269   width:  652   height:  509)
+Enter Image Path: /mydrive/ts/02c37cca4253f49f.jpg: Predicted in 15.300000 milli-seconds.
+Enter Image Path: /mydrive/ts/2b301b7bbec2ac71.jpg: Predicted in 15.206000 milli-seconds.
+5: 100%	(left_x:  171   top_y:  380   width:  300   height:  159)
+1: 100%	(left_x:  681   top_y:  311   width:  249   height:  376)
+Enter Image Path: /mydrive/ts/2bedf10fd4f91cb5.jpg: Predicted in 15.202000 milli-seconds.
+4: 100%	(left_x:  335   top_y:  451   width:  198   height:  244)
+Enter Image Path: /mydrive/ts/2f867b43c4e0a7a6.jpg: Predicted in 15.222000 milli-seconds.
+5: 100%	(left_x:  128   top_y:  413   width:  319   height:  157)
+Enter Image Path: /mydrive/ts/2fac827679f2b700.jpg: Predicted in 15.158000 milli-seconds.
+4: 96%	(left_x:  -19   top_y:  -10   width:  740   height: 1013)
+Enter Image Path: /mydrive/ts/03c440bd813f8b26.jpg: Predicted in 15.154000 milli-seconds.
+4: 100%	(left_x:  309   top_y:  420   width:  106   height:  129)
+Enter Image Path: /mydrive/ts/3d94428eaf8808c2.jpg: Predicted in 15.176000 milli-seconds.
+1: 100%	(left_x:   12   top_y:   81   width:  384   height:  585)
+Enter Image Path: /mydrive/ts/4aebe09915889964.jpg: Predicted in 15.235000 milli-seconds.
+4: 100%	(left_x:  214   top_y:  244   width:  350   height:  467)
+4: 99%	(left_x:  222   top_y:  696   width:  332   height:  327)
+Enter Image Path: /mydrive/ts/4e4ecaaaeb0eda1e.jpg: Predicted in 15.172000 milli-seconds.
+4: 100%	(left_x:  399   top_y:  320   width:  127   height:  165)
+Enter Image Path: /mydrive/ts/4ece6c92c9c19df3.jpg: Predicted in 15.186000 milli-seconds.
+4: 99%	(left_x:   55   top_y:  135   width:  138   height:   89)
+Enter Image Path: /mydrive/ts/05f98613a5f083d6.jpg: Predicted in 15.193000 milli-seconds.
+1: 99%	(left_x:   -5   top_y:   17   width:  338   height:  636)
+Enter Image Path: /mydrive/ts/5f7aaeaaa61067f4.jpg: Predicted in 15.165000 milli-seconds.
+4: 99%	(left_x:   50   top_y:   79   width:  939   height:  521)
+Enter Image Path: /mydrive/ts/5f78d4e7c8235254.jpg: Predicted in 15.206000 milli-seconds.
+5: 100%	(left_x:   60   top_y:  402   width:  517   height:  244)
+Enter Image Path: /mydrive/ts/5f2598a968b2dd97.jpg: Predicted in 15.173000 milli-seconds.
+1: 99%	(left_x:  343   top_y:  177   width:  291   height:  832)
+Enter Image Path: /mydrive/ts/06bb52a7df77556d.jpg: Predicted in 15.182000 milli-seconds.
+4: 99%	(left_x:  878   top_y:  273   width:   91   height:   64)
+Enter Image Path: /mydrive/ts/06efd28ab5fbc1ef.jpg: Predicted in 15.158000 milli-seconds.
+4: 97%	(left_x:  124   top_y:   46   width:  799   height:  642)
+Enter Image Path: /mydrive/ts/6eb2f600fdef4d5b.jpg: Predicted in 15.172000 milli-seconds.
+4: 100%	(left_x:  502   top_y:  396   width:  156   height:  125)
+Enter Image Path: /mydrive/ts/6f54984a8efcf958.jpg: Predicted in 15.194000 milli-seconds.
+4: 100%	(left_x:  244   top_y:  209   width:  241   height:  125)
+4: 100%	(left_x:  265   top_y:  517   width:  228   height:  199)
+Enter Image Path: /mydrive/ts/7ace059a9ec669aa.jpg: Predicted in 15.220000 milli-seconds.
+4: 100%	(left_x:  221   top_y:  373   width:  803   height:  486)
+Enter Image Path: /mydrive/ts/7ad5584aa00e667f.jpg: Predicted in 15.244000 milli-seconds.
+1: 100%	(left_x:  291   top_y:  199   width:  434   height:  742)
+Enter Image Path: /mydrive/ts/7b0112f7f5f096c5.jpg: Predicted in 15.198000 milli-seconds.
+1: 98%	(left_x:  255   top_y:   -2   width:  489   height:  810)
+Enter Image Path: /mydrive/ts/7df89eb120a7f522.jpg: Predicted in 15.165000 milli-seconds.
+5: 100%	(left_x:  241   top_y:  521   width:  208   height:  156)
+Enter Image Path: /mydrive/ts/7e2f8c24b086d39f.jpg: Predicted in 15.191000 milli-seconds.
+4: 100%	(left_x:  196   top_y:  306   width:  472   height:  374)
+Enter Image Path: /mydrive/ts/8aebf99122a9f9c4.jpg: Predicted in 15.167000 milli-seconds.
+1: 100%	(left_x:   12   top_y:   34   width:  389   height:  632)
+Enter Image Path: /mydrive/ts/8f24ccd5d86243b5.jpg: Predicted in 15.157000 milli-seconds.
+1: 100%	(left_x:  416   top_y:   65   width:  365   height:  665)
+Enter Image Path: /mydrive/ts/09b009f7e38ce804.jpg: Predicted in 15.319000 milli-seconds.
+4: 98%	(left_x:   88   top_y:  312   width:  793   height:  377)
+Enter Image Path: /mydrive/ts/9a7fe235c1ffee42.jpg: Predicted in 15.264000 milli-seconds.
+4: 100%	(left_x:  180   top_y:  463   width:  578   height:  477)
+4: 100%	(left_x:  187   top_y:  176   width:  420   height:  338)
+Enter Image Path: /mydrive/ts/15aec83a53930ee1.jpg: Predicted in 15.213000 milli-seconds.
+4: 100%	(left_x:   28   top_y:  586   width:  259   height:  214)
+1: 100%	(left_x:  265   top_y:  320   width:  213   height:  667)
+Enter Image Path: /mydrive/ts/0023dce3438b89c5.jpg: Predicted in 15.250000 milli-seconds.
+1: 98%	(left_x:   -7   top_y:   69   width:  248   height:  601)
+Enter Image Path: /mydrive/ts/27e7b4b11cad3557.jpg: Predicted in 15.319000 milli-seconds.
+4: 100%	(left_x:  187   top_y:   17   width:  681   height:  478)
+Enter Image Path: /mydrive/ts/32ac0b66a7d08de3.jpg: Predicted in 15.315000 milli-seconds.
+1: 100%	(left_x:  790   top_y:  111   width:  232   height:  562)
+Enter Image Path: /mydrive/ts/37b67c90f943af23.jpg: Predicted in 15.174000 milli-seconds.
+1: 99%	(left_x:  831   top_y:  106   width:  199   height:  578)
+Enter Image Path: /mydrive/ts/41d50da104d76a61.jpg: Predicted in 15.389000 milli-seconds.
+4: 100%	(left_x:  339   top_y:  477   width:  353   height:  427)
+Enter Image Path: /mydrive/ts/0047d66879464151.jpg: Predicted in 15.213000 milli-seconds.
+5: 99%	(left_x:   17   top_y:  133   width:  973   height:  593)
+Enter Image Path: /mydrive/ts/49b21b3d30cad7ee.jpg: Predicted in 15.280000 milli-seconds.
+5: 99%	(left_x:   15   top_y:  192   width:  747   height:  500)
+Enter Image Path: /mydrive/ts/58c6512ed835a1db.jpg: Predicted in 15.370000 milli-seconds.
+5: 97%	(left_x:  293   top_y:  114   width:  502   height:  233)
+Enter Image Path: /mydrive/ts/58f909b85dc61115.jpg: Predicted in 15.295000 milli-seconds.
+5: 100%	(left_x:  207   top_y:  457   width:  552   height:  134)
+Enter Image Path: /mydrive/ts/71d21aa1d5b986e3.jpg: Predicted in 15.223000 milli-seconds.
+4: 100%	(left_x:  158   top_y:  462   width:  294   height:  265)
+1: 97%	(left_x:  599   top_y:   69   width:  350   height:  725)
+Enter Image Path: /mydrive/ts/71f33fb571717d6f.jpg: Predicted in 15.270000 milli-seconds.
+1: 100%	(left_x:  222   top_y:  198   width:  206   height:  412)
+Enter Image Path: /mydrive/ts/77eaad79705a0061.jpg: Predicted in 15.326000 milli-seconds.
+5: 100%	(left_x:  432   top_y:  495   width:  118   height:   56)
+Enter Image Path: /mydrive/ts/80c3b1e81ef70e78.jpg: Predicted in 15.270000 milli-seconds.
+4: 94%	(left_x:    6   top_y:   -8   width: 1049   height:  682)
+Enter Image Path: /mydrive/ts/82af8ecf17d42a78.jpg: Predicted in 15.336000 milli-seconds.
+4: 99%	(left_x:   15   top_y:   15   width:  955   height:  567)
+Enter Image Path: /mydrive/ts/96d397eb7bdb5014.jpg: Predicted in 15.214000 milli-seconds.
+5: 100%	(left_x:   60   top_y:  151   width:  781   height:  484)
+Enter Image Path: /mydrive/ts/126b61892259c81b.jpg: Predicted in 15.280000 milli-seconds.
+1: 99%	(left_x:  184   top_y:   87   width:  405   height:  880)
+Enter Image Path: /mydrive/ts/0146a6b07d6b3160.jpg: Predicted in 15.248000 milli-seconds.
+1: 100%	(left_x:  356   top_y:  133   width:  655   height:  687)
+Enter Image Path: /mydrive/ts/188c2d68052cc7b7.jpg: Predicted in 15.093000 milli-seconds.
+1: 79%	(left_x:  222   top_y:  273   width:  544   height:  569)
+Enter Image Path: /mydrive/ts/226ca7062160972c.jpg: Predicted in 15.297000 milli-seconds.
+1: 100%	(left_x:  399   top_y:   59   width:  297   height:  590)
+Enter Image Path: /mydrive/ts/233e41a2f2f4b6ae.jpg: Predicted in 15.220000 milli-seconds.
+1: 100%	(left_x:  197   top_y:  255   width:  280   height:  431)
+5: 100%	(left_x:  712   top_y:  418   width:  229   height:  162)
+Enter Image Path: /mydrive/ts/235fdb5d486a95a9.jpg: Predicted in 15.224000 milli-seconds.
+1: 100%	(left_x:  577   top_y:  195   width:  311   height:  491)
+Enter Image Path: /mydrive/ts/377c766f64c37340.jpg: Predicted in 15.310000 milli-seconds.
+4: 100%	(left_x:  415   top_y:  437   width:  138   height:  217)
+Enter Image Path: /mydrive/ts/436f7609041323f4.jpg: Predicted in 15.292000 milli-seconds.
+4: 44%	(left_x:  -33   top_y:   44   width: 1007   height:  615)
+Enter Image Path: /mydrive/ts/470c4a32fb744c46.jpg: Predicted in 15.340000 milli-seconds.
+4: 98%	(left_x:  155   top_y:    8   width:  554   height:  726)
+3: 79%	(left_x:  489   top_y:  364   width:   21   height:   44)
+Enter Image Path: /mydrive/ts/568f7fac6918aa6b.jpg: Predicted in 15.178000 milli-seconds.
+5: 99%	(left_x:   66   top_y:  222   width:  901   height:  356)
+Enter Image Path: /mydrive/ts/598ce21cc779ff81.jpg: Predicted in 15.191000 milli-seconds.
+3: 100%	(left_x:  758   top_y:   -5   width:  163   height:  158)
+Enter Image Path: /mydrive/ts/603dd33e938d9611.jpg: Predicted in 15.359000 milli-seconds.
+Enter Image Path: /mydrive/ts/645e026b12b6d001.jpg: Predicted in 15.286000 milli-seconds.
+4: 99%	(left_x:    7   top_y:   27   width:  547   height:  506)
+4: 99%	(left_x:   20   top_y:  543   width:  523   height:  409)
+Enter Image Path: /mydrive/ts/650a4f170cfed8ae.jpg: Predicted in 15.303000 milli-seconds.
+4: 89%	(left_x:   18   top_y:  132   width:  963   height:  457)
+Enter Image Path: /mydrive/ts/717ccd7e5deaf318.jpg: Predicted in 15.153000 milli-seconds.
+1: 34%	(left_x:  367   top_y:  341   width:  216   height:  432)
+4: 99%	(left_x:  736   top_y:  608   width:  152   height:  272)
+Enter Image Path: /mydrive/ts/838bca0323ce374d.jpg: Predicted in 15.137000 milli-seconds.
+4: 99%	(left_x:  168   top_y:    1   width:  699   height:  610)
+Enter Image Path: /mydrive/ts/895f12ea6424a8b8.jpg: Predicted in 15.243000 milli-seconds.
+5: 85%	(left_x:  319   top_y:  384   width:  188   height:  104)
+Enter Image Path: /mydrive/ts/975da8e742d8250d.jpg: Predicted in 15.244000 milli-seconds.
+1: 100%	(left_x:  548   top_y:  122   width:  413   height:  559)
+Enter Image Path: /mydrive/ts/3209c0aeb2ab6b62.jpg: Predicted in 15.212000 milli-seconds.
+4: 100%	(left_x:  386   top_y:  533   width:  231   height:  129)
+Enter Image Path: /mydrive/ts/4560bd6948c37f85.jpg: Predicted in 15.186000 milli-seconds.
+3: 99%	(left_x:  205   top_y:  412   width:   55   height:   85)
+5: 100%	(left_x:  244   top_y:  452   width:  287   height:  361)
+3: 100%	(left_x:  426   top_y:  386   width:  158   height:  147)
+Enter Image Path: /mydrive/ts/5280a2feff193b85.jpg: Predicted in 15.304000 milli-seconds.
+4: 99%	(left_x:  577   top_y:  470   width:  372   height:  221)
+Enter Image Path: /mydrive/ts/5369a081c4f33ac3.jpg: Predicted in 15.204000 milli-seconds.
+4: 100%	(left_x:   99   top_y:   83   width:  881   height:  517)
+Enter Image Path: /mydrive/ts/7749d3d4904ce2c7.jpg: Predicted in 15.294000 milli-seconds.
+1: 100%	(left_x:  579   top_y:  236   width:  137   height:  211)
+Enter Image Path: /mydrive/ts/7771c64fca6089d2.jpg: Predicted in 15.188000 milli-seconds.
+1: 100%	(left_x:  649   top_y:  224   width:  177   height:  378)
+Enter Image Path: /mydrive/ts/9133b173feb0a59a.jpg: Predicted in 15.306000 milli-seconds.
+5: 91%	(left_x:  441   top_y:  595   width:  153   height:   20)
+Enter Image Path: /mydrive/ts/9665af9068ea95a5.jpg: Predicted in 15.158000 milli-seconds.
+4: 100%	(left_x:  304   top_y:  461   width:  254   height:  371)
+Enter Image Path: /mydrive/ts/10087b4a29033528.jpg: Predicted in 15.290000 milli-seconds.
+4: 100%	(left_x:  207   top_y:  116   width:  643   height:  419)
+Enter Image Path: /mydrive/ts/11739cf765a3f3d5.jpg: Predicted in 15.303000 milli-seconds.
+Enter Image Path: /mydrive/ts/20755e349ac81f0c.jpg: Predicted in 15.224000 milli-seconds.
+1: 100%	(left_x:   12   top_y:  131   width:  317   height:  585)
+Enter Image Path: /mydrive/ts/30860ef22c56e194.jpg: Predicted in 15.180000 milli-seconds.
+4: 100%	(left_x:  433   top_y:  476   width:  267   height:  281)
+5: 86%	(left_x:  622   top_y:  307   width:  130   height:   87)
+Enter Image Path: /mydrive/ts/034009bc1203f842.jpg: Predicted in 15.387000 milli-seconds.
+5: 51%	(left_x:   40   top_y:  425   width:  647   height:  256)
+Enter Image Path: /mydrive/ts/58104a3fa20b4031.jpg: Predicted in 15.273000 milli-seconds.
+5: 100%	(left_x:    7   top_y:  104   width:  914   height:  631)
+Enter Image Path: /mydrive/ts/0118064eedc2b2c1.jpg: Predicted in 15.194000 milli-seconds.
+Enter Image Path: /mydrive/ts/263523d1754e3381.jpg: Predicted in 15.284000 milli-seconds.
+4: 100%	(left_x:  132   top_y:  281   width:  140   height:  110)
+1: 100%	(left_x:  302   top_y:  172   width:  139   height:  294)
+Enter Image Path: /mydrive/ts/386644a72691a05a.jpg: Predicted in 15.159000 milli-seconds.
+1: 99%	(left_x:  227   top_y:  114   width:  392   height:  878)
+Enter Image Path: /mydrive/ts/397841a27847b8fb.jpg: Predicted in 15.135000 milli-seconds.
+Enter Image Path: /mydrive/ts/671732f697b25730.jpg: Predicted in 15.241000 milli-seconds.
+4: 100%	(left_x:   59   top_y:  592   width:  226   height:  170)
+Enter Image Path: /mydrive/ts/10148070b0457460.jpg: Predicted in 15.157000 milli-seconds.
+5: 99%	(left_x:  605   top_y:  343   width:  230   height:   43)
+Enter Image Path: /mydrive/ts/54747437a1be9c7a.jpg: Predicted in 15.228000 milli-seconds.
+4: 100%	(left_x:  151   top_y:  157   width:  682   height:  433)
+Enter Image Path: /mydrive/ts/88748156b5bf3d8b.jpg: Predicted in 15.264000 milli-seconds.
+4: 100%	(left_x:  348   top_y:  502   width:  405   height:  270)
+Enter Image Path: /mydrive/ts/185175594b121824.jpg: Predicted in 15.165000 milli-seconds.
+4: 98%	(left_x:  315   top_y:   27   width:  721   height:  697)
+Enter Image Path: /mydrive/ts/72629128427cf83c.jpg: Predicted in 15.153000 milli-seconds.
+4: 99%	(left_x:   93   top_y:   47   width:  896   height:  604)
+Enter Image Path: /mydrive/ts/a2eb27330f078f0b.jpg: Predicted in 15.358000 milli-seconds.
+1: 100%	(left_x:  518   top_y:  143   width:  207   height:  633)
+Enter Image Path: /mydrive/ts/a4de535aa7420cca.jpg: Predicted in 15.145000 milli-seconds.
+4: 95%	(left_x:  -58   top_y:   13   width: 1106   height:  536)
+Enter Image Path: /mydrive/ts/ac9accdfcfa6aa32.jpg: Predicted in 15.163000 milli-seconds.
+4: 100%	(left_x:  576   top_y:  197   width:  238   height:  154)
+Enter Image Path: /mydrive/ts/ac29c3e05564a1c0.jpg: Predicted in 15.190000 milli-seconds.
+5: 99%	(left_x:  224   top_y:  386   width:  106   height:   41)
+Enter Image Path: /mydrive/ts/b7d556b0a49a22bf.jpg: Predicted in 15.131000 milli-seconds.
+4: 100%	(left_x:  507   top_y:  452   width:  323   height:  315)
+Enter Image Path: /mydrive/ts/b11dc1515c647e32.jpg: Predicted in 15.180000 milli-seconds.
+1: 53%	(left_x:  832   top_y:  184   width:  194   height:  550)
+Enter Image Path: /mydrive/ts/b52b11559bb34336.jpg: Predicted in 15.223000 milli-seconds.
+1: 100%	(left_x:  223   top_y:  264   width:  292   height:  723)
+Enter Image Path: /mydrive/ts/bfd2cbc2847ead5c.jpg: Predicted in 15.247000 milli-seconds.
+1: 98%	(left_x:   81   top_y:   51   width:  934   height:  697)
+Enter Image Path: /mydrive/ts/c2ee6842aa012389.jpg: Predicted in 15.262000 milli-seconds.
+4: 100%	(left_x:  112   top_y:  648   width:  188   height:  350)
+Enter Image Path: /mydrive/ts/c8df496e8c179139.jpg: Predicted in 15.243000 milli-seconds.
+5: 45%	(left_x:  175   top_y:  421   width:  694   height:  238)
+Enter Image Path: /mydrive/ts/c063f06ed94237f2.jpg: Predicted in 15.231000 milli-seconds.
+1: 49%	(left_x:   35   top_y:   61   width:  772   height:  563)
+Enter Image Path: /mydrive/ts/c978163d550c51ae.jpg: Predicted in 15.194000 milli-seconds.
+4: 94%	(left_x:   26   top_y:  108   width:  280   height:  278)
+4: 100%	(left_x:  211   top_y:  733   width:  256   height:  280)
+Enter Image Path: /mydrive/ts/cb9bb228b5209e45.jpg: Predicted in 15.295000 milli-seconds.
+5: 82%	(left_x:  125   top_y:  596   width:   99   height:   61)
+5: 29%	(left_x:  151   top_y:    9   width:  240   height:   86)
+5: 82%	(left_x:  211   top_y:  599   width:  103   height:   55)
+1: 100%	(left_x:  460   top_y:  484   width:  193   height:  433)
+Enter Image Path: /mydrive/ts/cfa5389b9eeba8f1.jpg: Predicted in 15.350000 milli-seconds.
+1: 100%	(left_x:  135   top_y:   39   width:  486   height:  975)
+3: 93%	(left_x:  575   top_y:  -15   width:  109   height:  305)
+Enter Image Path: /mydrive/ts/d26a9cd5c111ad7d.jpg: Predicted in 15.160000 milli-seconds.
+4: 100%	(left_x:  660   top_y:  430   width:  144   height:  244)
+4: 100%	(left_x:  711   top_y:  143   width:  165   height:  115)
+Enter Image Path: /mydrive/ts/d823cfc99fa2a2dd.jpg: Predicted in 15.183000 milli-seconds.
+4: 99%	(left_x:  207   top_y:  119   width:  591   height:  647)
+Enter Image Path: /mydrive/ts/d9284c51199e9ec8.jpg: Predicted in 15.261000 milli-seconds.
+4: 100%	(left_x:  428   top_y:  257   width:  448   height:  332)
+Enter Image Path: 
